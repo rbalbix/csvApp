@@ -34,7 +34,8 @@ Member.remove().then(() => {
                     // console.log(resp);
 
                     let member = {
-                        champId: "5d3f22dd6fd42b12cca70d68",
+                        // champId: "5d3f22dd6fd42b12cca70d68",
+                        champId: "5d34b54b3c4e976235345b88",
                         teamId: teamId,
                         playerId: resp._id
                     }
