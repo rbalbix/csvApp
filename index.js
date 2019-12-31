@@ -5,7 +5,6 @@ const Player = require("./src/models/Player");
 const Team = require("./src/models/Team");
 const Member = require("./src/models/Member");
 
-
 let teamId;
 
 // Preparar para cada collection importada
